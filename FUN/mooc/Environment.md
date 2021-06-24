@@ -26,6 +26,13 @@ boot.py is configured to stop the SDS011 fan on boot (in case it would be spinni
 main.py handles the automatic call of iiot_full_sensor.py script when the sensor is not in programming mode. It also handles reboot upon catching an unexpected exception.
 
 
+- TEST CODE: [microconda](http://micropython.org/unicorn/)
 
-TEST CODE: [microconda](http://micropython.org/unicorn/)
+## THE REPL
+
+The "Read-Eval-Print-Loop" is an interactive terminal that lets you interact with your LoPy in Python in real-time. It is very convenient to test pieces of code that may ultimately got to a Python file.
+
+The REPL is characterized by its ">>>" prompt.
+
+>>>
 
