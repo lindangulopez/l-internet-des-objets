@@ -1,0 +1,69 @@
+Qu'allez-vous apprendre ?
+Capter des données brutes grâce à un objet que vous allez fabriquer et programmer. Transmettre ces données sous la forme d'une information structurée, essentielle pour construire des systèmes d’information complexes, robustes et fiables.
+
+À la fin du cours, vous serez capable de : 
+programmer un objet connecté ;
+intégrer un objet dans un système "Internet des Objets" (IOT) ;
+structurer les données transmises par un objet en vue de leur interopérabilité ;
+traiter les données transmises par un objet au sein d‘une application de monitorage.
+RÃ©sultat de recherche d'images pour "target"
+
+Pré-requis :
+avoir un ordinateur avec les droits administrateur pour pouvoir faire les travaux pratiques ;
+
+niveau BAC+2 dans le domaine des réseaux et télécoms recommandé (architecture IP, architecture client/serveur) - recommandations : MOOC principes des réseaux de données, MOOC réseaux locaux ;
+bonnes bases en programmation (Python recommandé) - une aide sur Python est intégrée à ce cours ;
+connaissances de base dans le traitement des données et des bases de données (savoir ce qu'est une base de données, comment l'interroger) ;
+compétences de base en système UNIX ou Linux : exécuter les commandes de base (ls, cat, chmod, ssh), éditer un fichier (vi, emacs).
+Dans chaque section de ce cours, nous vous proposerons des cours sous forme de vidéos courtes (5 à 8 min), de cours écrits avec des schémas et des animations, ainsi que des travaux pratiques et des quiz.
+
+Un cours pratique : les travaux qui vous attendent
+Grâce à ce cours, vous pourrez fabriquer un objet intelligent qui captera des données de l'environnement (température, humidité, pression). Vous structurerez ces données et les enverrez à un serveur distant qui les traitera, les stockera dans une base de données structurée et renverra des informations vers l'objet.
+
+Charge de travail
+Pour regarder l'ensemble des vidéos, effectuer les activités et participer, il vous est demandé de consacrer 4 à 5 heures par section, le cours comprenant 5 sections ; soit un total de 20 à 25 h de travail pour terminer le cours. 
+
+Modalités d'évaluation
+Pour réussir ce cours, il vous faudra obtenir une note globale supérieure à 60 % sur l'ensemble des activités proposées.
+
+Répondre aux quiz = 40 % de la note finale ;
+Réaliser les TP = 60 % de la note finale.
+RÃ©sultat de recherche d'images pour "certificate icon"
+
+Organisation d'une semaine type
+Dans chaque section, nous allons aborder un aspect de la programmation d'un objet connecté, depuis la captation d'une donnée brute jusqu'à sa transmission sous forme d'une donnée structurée en vue d'un traitement sur un serveur distant. Vous aurez à répondre à des quiz pour vérifier votre compréhension et mettre en œuvre des travaux pratiques pour appliquer ces connaissances.
+
+La structure du cours
+Ce cours est auto-rythmé donc vous avez accès à tout le contenu du cours dès son ouverture le 01/06/2021 afin de vous permettre de progresser à votre rythme.
+Afin de réussir ce MOOC, nous vous conseillons de garder un rythme régulier et de planifier votre temps de travail en prévoyant un délai d'une semaine pour chaque section de cours, comme indiqué ci-dessous.
+
+Mise en ligne	Sections	Évaluation	Échéances conseillées
+01/06/21	Section 1 : Les bases de l'Internet des Objets	
+Quiz
+
+TP
+
+08/06/21
+01/06/21	Section 2 : La structuration compacte des données	
+Quiz
+
+TP
+
+15/06/21
+01/06/21	Section 3 : Le transport de la donnée	
+Quiz
+
+TP
+
+22/06/21
+01/06/21	Section 4 : Les informations sémantiques	
+Quiz
+
+TP
+
+29/06/21
+01/06/21	Section 5 : Vers une exploitation de la données : précautions et outils	
+TP
+
+06/07/21
+
